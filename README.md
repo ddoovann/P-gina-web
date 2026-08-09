@@ -10,6 +10,10 @@ header {
        background-color: #860E0E;
        color: #E9ACAC; 
 }
+main {
+       background-color: #FFFFFF; 
+       color: #860E0E; 
+       }
 </style>
 </head>
 <body>
