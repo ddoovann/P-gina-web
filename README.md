@@ -7,7 +7,7 @@
 <title>Blog</title>
 <style> 
 heade {
-       background-color: #blue; 
+       background-color: #860E0E; 
 }
 </style>
 </head>
