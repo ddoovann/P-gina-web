@@ -5,6 +5,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Blog</title>
+<style> 
+header{
+       background-color: #860E0E;
+}
+</style>
 </head>
 <body>
 </body>
@@ -21,5 +26,4 @@
 
     
         
-    </body>
-</html>
+
