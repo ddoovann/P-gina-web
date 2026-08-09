@@ -5,17 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Blog</title>
-       <style> 
-       header{ 
-              text-align: center; 
-              max-width: 800px; 
-              margin: 0 auto; 
-              }
-              main { 
-              max-width: 800px; 
-              margin: 0 auto; 
-                     
-       </style>
+        
 </head>
 <body>
 </body>
