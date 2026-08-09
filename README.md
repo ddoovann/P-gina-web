@@ -8,6 +8,7 @@
 <style> 
 header {
        background-color: #860E0E;
+       color: #E9ACAC; 
 }
 </style>
 </head>
